@@ -15,7 +15,9 @@ Currently, I am in the **beginner phase**, learning core Java basics and gradual
 
 ## 📂 Topics Covered (Currently)
 - ✅ Variables & Data Types
-- 🔄 Basic Java Programs
+- ✅ Operator
+- ✅ Conditional Statements
+- 🔄 Loop
 - ⏳ Arrays *(Coming Soon)*
 - ⏳ Strings
 - ⏳ Patterns
@@ -70,7 +72,7 @@ java FileName
 | Topic | Status |
 |------|--------|
 | Java Basics | 🔄 Learning |
-| Variables & Data Types | ✅ Started |
+| Variables & Data Types | Operator | Condtional Statement | ✅|
 | Arrays | ⏳ Not Started |
 | Strings | ⏳ Not Started |
 | Patterns | ⏳ Not Started |
