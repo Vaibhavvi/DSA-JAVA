@@ -1,104 +1,181 @@
-# ☕ DSA-JAVA 🚧 (Learning in Public)
+# ☕ DSA-JAVA 🚀  
+### 📚 Learning Data Structures & Algorithms in Public using Java  
 
-🚀 This repository contains my **Data Structures & Algorithms learning journey using Java**.  
-Currently, I am in the **beginner phase**, learning core Java basics and gradually moving towards DSA concepts.
+Welcome to my **DSA-JAVA Series** 🎯  
 
----
-
-## 📌 Repository Status
-- 🟡 Project is in starting phase
-- 🧠 Learning programming fundamentals
-- 💻 Practicing basic Java programs
-- 📈 Repository will grow step-by-step with my learning
+This repository documents my **step-by-step journey of learning Data Structures & Algorithms using Java**.  
+I am learning in public, solving practice problems, and pushing code regularly to track my progress and maintain consistency.
 
 ---
 
-## 📂 Topics Covered (Currently)
-- ✅ Variables & Data Types
-- ✅ Operator
-- ✅ Conditional Statements
-- 🔄 Loop
-- ⏳ Arrays *(Coming Soon)*
+## 🚀 About This Repository
+
+- 📌 Beginner-friendly structured learning
+- 🧠 Strong focus on Java fundamentals
+- 💻 Topic-wise examples with clean code
+- 🧩 Practice problems & logic building
+- 📈 Daily/Regular progress updates
+- 🌿 Version controlled learning journey
+
+This repo will grow as I grow 🚀
+
+---
+
+## 🗺️ Learning Roadmap
+
+### 🔰 Phase 1: Java Fundamentals
+- ✅ Variables & Data Types  
+- ✅ Operators  
+- ✅ Conditional Statements  
+- 🔄 Loops  
+- ⏳ Arrays  
+- ⏳ Strings  
+- ⏳ Methods & Functions  
+- ⏳ Object-Oriented Programming  
+
+---
+
+### 🚀 Phase 2: Core Data Structures
+- ⏳ Arrays (Advanced)
 - ⏳ Strings
-- ⏳ Patterns
-- ⏳ Functions & Methods
-- ⏳ Object Oriented Programming
-- ⏳ Data Structures
-- ⏳ Algorithms
+- ⏳ Recursion
+- ⏳ Sorting Algorithms
+- ⏳ Searching Algorithms
+- ⏳ Linked List
+- ⏳ Stack
+- ⏳ Queue
+- ⏳ Hashing
+- ⏳ Trees
+- ⏳ Graphs
 
 ---
 
-## 🗂️ Folder Structure
-~~~text
+### 🧠 Phase 3: Algorithms & Problem Solving
+- ⏳ Time & Space Complexity
+- ⏳ Two Pointer Technique
+- ⏳ Sliding Window
+- ⏳ Recursion & Backtracking
+- ⏳ Greedy Algorithms
+- ⏳ Dynamic Programming
+- ⏳ Interview Questions Practice
+
+---
+
+## 📂 Folder Structure
+
+```text
 DSA-JAVA/
 │
-├── VariableDataType/
-├── Arrays/        (Upcoming)
-├── Strings/       (Upcoming)
-├── Patterns/      (Upcoming)
-└── More Concepts Coming Soon...
-~~~
+├── Variables/
+├── DataTypes/
+├── Operators/
+├── Conditionals/
+├── Loops/
+├── Arrays/
+├── Strings/
+├── Patterns/
+├── Methods/
+├── OOP/
+├── Recursion/
+├── Sorting/
+├── Searching/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Hashing/
+├── Trees/
+├── Graphs/
+├── DynamicProgramming/
+│
+└── PracticeQuestions/
+```
 
 ---
 
-## ⚙️ Technologies Used
-- ☕ Java
-- 💻 VS Code / IntelliJ IDEA
-- 🌿 Git & GitHub
+## 💻 What You’ll Find Here
+
+✔ Topic explanation with example code  
+✔ Practice problems with solutions  
+✔ Clean and readable Java programs  
+✔ Step-by-step concept building  
+✔ Regular commits showing progress  
 
 ---
 
-## 🎯 Learning Goals
-- Build strong Java fundamentals
-- Understand core DSA concepts
-- Improve logical thinking
-- Maintain coding consistency
-- Prepare for coding interviews
+## ⚙️ Tech Stack
+
+- ☕ Java  
+- 💻 VS Code / IntelliJ IDEA  
+- 🌿 Git & GitHub  
 
 ---
 
-## 🚀 How to Run Programs
-~~~bash
+## 🛠️ How to Run Java Programs
+
+```bash
 # Compile Java File
 javac FileName.java
 
 # Run Java Program
 java FileName
-~~~
+```
 
 ---
 
-## 📈 Learning Progress
+## 📊 Learning Progress Tracker
+
 | Topic | Status |
-|------|--------|
-| Java Basics | 🔄 Learning |
-| Variables & Data Types | Operator | Condtional Statement | ✅|
+|--------|--------|
+| Java Basics | 🔄 In Progress |
 | Arrays | ⏳ Not Started |
 | Strings | ⏳ Not Started |
-| Patterns | ⏳ Not Started |
-| DSA Concepts | ❌ Upcoming |
+| Recursion | ⏳ Not Started |
+| Sorting | ⏳ Not Started |
+| Linked List | ⏳ Not Started |
+| Stack | ⏳ Not Started |
+| Queue | ⏳ Not Started |
+| Trees | ⏳ Not Started |
+| Graphs | ⏳ Not Started |
+| Dynamic Programming | ⏳ Not Started |
 
 ---
 
-## 📌 Future Updates
-- More Java practice programs
-- Core DSA implementations
-- Problem solving questions
-- Interview preparation content
-- Daily learning progress
+## 🎯 Goals
+
+- Build strong problem-solving skills  
+- Master core DSA concepts  
+- Improve logical thinking  
+- Stay consistent with daily coding  
+- Prepare for technical interviews  
+- Become placement-ready 🚀  
 
 ---
 
-## 🤝 Contribution
-This is a personal learning repository, but suggestions and improvements are welcome.
+## 📅 Commitment
+
+I will:
+- Push code regularly  
+- Solve practice questions daily  
+- Keep improving folder structure  
+- Maintain clean & readable code  
+
+---
+
+## 🤝 Contributions
+
+This is my personal learning repository,  
+but suggestions, improvements, and feedback are always welcome.
 
 ---
 
 ## ⭐ Support
-If you find this repository helpful, consider giving it a ⭐ on GitHub.
+
+If you find this repository inspiring or helpful,  
+consider giving it a ⭐ on GitHub!
 
 ---
 
 ## 👨‍💻 Author
+
 **Vaibhav Dubey**  
-MERN Developer and DSA || AI Learner 🚀
+MERN Developer | DSA Learner | AI Enthusiast 🚀  
