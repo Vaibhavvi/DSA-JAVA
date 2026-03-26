@@ -28,7 +28,7 @@ This repo will grow as I grow 🚀
 - ✅ Operators  
 - ✅ Conditional Statements  
 - ✅ Loops 
-- 🔄 Pattern 
+- ✅ Pattern 
 - 🔄 Arrays  
 - ⏳ Strings  
 - ⏳ Methods & Functions  
@@ -127,7 +127,7 @@ java FileName
 
 | Topic | Status |
 |--------|--------|
-| Java Basics | 🔄 In Progress |
+| Java Basics | ✅ In Progress |
 | Arrays | 🔄 In Progress |
 | Strings | ⏳ Not Started |
 | Recursion | ⏳ Not Started |
